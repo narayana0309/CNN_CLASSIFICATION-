@@ -1,2 +1,2 @@
-# CNN_CLASSIFICATION-
-its a calculator for arithmetic operations 
+# CNN_CLASSIFICATION
+ to classifie images wether it is cat or dog
